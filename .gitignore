@@ -8,3 +8,5 @@ venv/
 # Cache do Python
 __pycache__/
 *.pyc
+
+.ipynb_checkpoints
